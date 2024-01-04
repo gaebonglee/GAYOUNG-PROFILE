@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>자기소개서</title>
+    <link rel="stylesheet" href="profile.css" />
+
+  </head>
+  <body>
+    <div>
+        <a href="https://github.com/Eng-Fluencer"
+        ><img src="me22.png"
+      /></a><p class="greeting"> LEE GAYOUNG </p>
+
+    </div>
+    <div>
+    <p class="first">
+      저는 26살 이가영이라고 합니다. 만나서 반갑습니다!
+      <br />
+      비대면 강의로 수업을 듣고 있지만 다음에 프로젝트 할 때 다 같이 만나면 좋겠네요! 
+      <br />열심히 다같이 달려봅시다! 👊
+      <br>
+    </div>
+    </p>
+    <hr />
+
+    <table border="1">
+      <caption>
+        <strong> 성격 keyword </strong>
+      </caption>
+
+      <thead>
+        <tr>
+          <th>차분한</th>
+          <th>끈기있는</th>
+          <th>신중한</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <th>긍정적인</th>
+          <th>결단력 있는</th>
+          <th>호의적인</th>
+        </tr>
+      </tfoot>
+    </table>
+
+    <hr />
+
+    <fieldset>
+      <legend>문자 발송</legend>
+
+      <br />
+        <h3>인사말을 자유롭게 작성하고 전송을 눌러주세요.</h3>
+        <textarea cols="30" rows="10"> </textarea>
+
+        <hr />
+        <br />
+        <input type="button" value="전송">
+  </body>
+</html>
